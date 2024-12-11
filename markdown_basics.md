@@ -55,6 +55,6 @@ Example:
 Next Steps
 Now that you've learned the basic markdown syntax, you can start using it to create well-structured documentation on GitHub.
 
-[Next: Getting Started with GitHub](github.md)
+[Next: Getting Started with GitHub](github_setup.md)
 [Back to Home](README.md)
 
