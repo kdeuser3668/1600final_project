@@ -1,4 +1,4 @@
-# Title: Introduction to Github Markdown for Dummies.
+# Introduction to Github Markdown for Dummies.
 
 #### By: Kayla Deuser 
 
