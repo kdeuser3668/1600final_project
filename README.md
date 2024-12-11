@@ -10,21 +10,11 @@ This tutorial is designed for individuals aged 16+ with minimal or no prior know
 
 Topics Covered:
 1. Introduction to Markdown(markdown_basics.md)
-	2. Getting Started with GitHub(github_setup.md)
-		○ Creating a GitHub account
-		○ Setting up a new repository
-	3. Markdown Basics(markdown_basics.md)
-		○ Syntax for headers, lists, links, and images
-		○ Code blocks and inline code
-	4. Organizing Markdown Files(navigation_links.md)
-		○ Creating multiple pages in a repository
-		○ Linking between markdown files
-	5. Advanced Markdown Features(markdown_basics.md)
-		○ Tables and footnotes
-		○ Embedding images and videos
-	6. Navigation within Markdown(navigation_links.md)
-		○ Creating a table of contents
-    ○ Forward and backward navigation
+2. Getting Started with GitHub(github_setup.md)
+3. Markdown Basics(markdown_basics.md)
+4. Organizing Markdown Files(navigation_links.md)
+5. Advanced Markdown Features(markdown_basics.md)
+6. Navigation within Markdown(navigation_links.md)
 
 ***The README.md is to serve as a home page for the tutorial. Other markdown pages can be linked to from the README.md. Provide navigation forward and backward if linking between markdown documents. Also, if useful, create links to navigate within a markdown document.***
 
