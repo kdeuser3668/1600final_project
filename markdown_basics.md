@@ -20,7 +20,7 @@ Markdown allows you to create headers by using the `#` symbol followed by a spac
 
 Markdown supports both unordered (bulleted) and ordered (numbered) lists.
 
-**Unordered Lists: 
+Unordered Lists: 
 Use -, *. or + to create bullet points. 
 
 ```markdown
@@ -28,7 +28,7 @@ Use -, *. or + to create bullet points.
 - Item 2
 - Item 3
 ```
-**Ordered Lists: 
+Ordered Lists: 
 Use numbers followed by a period to create ordered lists. 
 
 ```markdown
@@ -51,7 +51,10 @@ Images are similar to links but with an exclamation mark ! in front of the synta
 Example: 
 ```markdown
 ![GitHub Logo](https://github.com/images/logo.png)
-
 ```
+Next Steps
+Now that you've learned the basic markdown syntax, you can start using it to create well-structured documentation on GitHub.
+
+[Next: Getting Started with GitHub](github.md)
 [Back to Home](README.md)
 
