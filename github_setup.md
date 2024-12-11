@@ -4,7 +4,6 @@ Markdown Syntax Overview
 #### **github_setup.md** (GitHub Account and Repository Creation)
 This page should walk through the process of creating a GitHub account and setting up a new repository. You might want to break it down into detailed steps with screenshots or visual aids:
 
-```markdown
 # Getting Started with GitHub
 
 ## Step 1: Create a GitHub Account
@@ -21,6 +20,7 @@ This page should walk through the process of creating a GitHub account and setti
 
 [Next: Markdown Basics](markdown_basics.md)
 [Back to Home](README.md)
+
 
 
 ***Each page will include navigation links at the bottom to move forward or backward in the tutorial sequence.***
