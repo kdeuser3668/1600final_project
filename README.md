@@ -13,6 +13,5 @@ This tutorial is designed for individuals aged 16+ with minimal or no prior know
 4. [Advanced Markdown Features](markdown_basics.md)
 5. [Navigation within Markdown](navigation_links.md)
 
-### See below: 
-[Next: Getting Started with GitHub](github_setup.md)
+ ### [Next: Getting Started with GitHub](github_setup.md)
 
