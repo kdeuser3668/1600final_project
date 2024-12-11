@@ -13,6 +13,7 @@ Each header (e.g., `#`, `##`, `###`) in Markdown can be turned into an anchor li
 Let's say you have the following header in your document:
 
 ```markdown
+[Go to Markdown Syntax Overview](#markdown-syntax-overview)
 ```
 [Back to Home](README.md)
 
