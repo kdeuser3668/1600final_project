@@ -16,4 +16,42 @@ Markdown allows you to create headers by using the `#` symbol followed by a spac
 ###### Header Level 6
 ```
 
+## 1. Lists
+
+Markdown supports both unordered (bulleted) and ordered (numbered) lists.
+
+**Unordered Lists: 
+Use -, *. or + to create bullet points. 
+
+```markdown
+- Item 1
+- Item 2
+- Item 3
+```
+**Ordered Lists: 
+Use numbers followed by a period to create ordered lists. 
+
+```markdown
+1. First item
+2. Second item
+3. Third item
+```
+
+3. Links
+You can create hyperlinks in markdown by using square brackets [] for the link text and parentheses () for the URL.
+
+Example: 
+```markdown
+[GitHub](https://github.com)
+```
+
+4. Images
+Images are similar to links but with an exclamation mark ! in front of the syntax.
+
+Example: 
+```markdown
+![GitHub Logo](https://github.com/images/logo.png)
+
+```
 [Back to Home](README.md)
+
