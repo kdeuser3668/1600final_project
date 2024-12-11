@@ -19,4 +19,4 @@ Topics Covered:
 ***The README.md is to serve as a home page for the tutorial. Other markdown pages can be linked to from the README.md. Provide navigation forward and backward if linking between markdown documents. Also, if useful, create links to navigate within a markdown document.***
 
 [Next: Getting Started with GitHub](github_setup.md)
-[Back to Home](README.md)
+
