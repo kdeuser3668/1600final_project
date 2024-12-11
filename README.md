@@ -1,6 +1,6 @@
 # Title: Introduction to Github Markdown for Dummies.
 
-## By: Kayla Deuser 
+#### By: Kayla Deuser 
 
 This tutorial provides an in-depth, beginner-friendly guide to creating and navigating markdown documents on GitHub. It covers foundational concepts, markdown syntax, repository management, and linking techniques, equipping readers with the skills to create well-structured, interactive documentation hosted on GitHub.
 
